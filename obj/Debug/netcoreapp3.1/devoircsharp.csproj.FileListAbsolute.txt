@@ -1,0 +1,13 @@
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.csprojAssemblyReference.cache
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.AssemblyInfoInputs.cache
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.AssemblyInfo.cs
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.csproj.CoreCompileInputs.cache
+D:\tpcsharp\devoircsharp\bin\Debug\netcoreapp3.1\devoircsharp.exe
+D:\tpcsharp\devoircsharp\bin\Debug\netcoreapp3.1\devoircsharp.deps.json
+D:\tpcsharp\devoircsharp\bin\Debug\netcoreapp3.1\devoircsharp.runtimeconfig.json
+D:\tpcsharp\devoircsharp\bin\Debug\netcoreapp3.1\devoircsharp.runtimeconfig.dev.json
+D:\tpcsharp\devoircsharp\bin\Debug\netcoreapp3.1\devoircsharp.dll
+D:\tpcsharp\devoircsharp\bin\Debug\netcoreapp3.1\devoircsharp.pdb
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.dll
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.pdb
+D:\tpcsharp\devoircsharp\obj\Debug\netcoreapp3.1\devoircsharp.genruntimeconfig.cache
